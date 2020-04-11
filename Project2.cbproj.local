@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.212,=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\OAiP\lab4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.307,=C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,D:\OAiP\lab4(var11)\Unit1.dfm=D:\OAiP\lab4(var11)\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,D:\OAiP\lab4(var11)\Unit2.h=D:\OAiP\lab4(var11)\Stack.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,D:\OAiP\lab4(var11)\Unit1.cpp=D:\OAiP\lab4(var11)\main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.613,D:\OAiP\lab4(var11)\Unit1.cpp=D:\OAiP\lab4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=D:\OAiP\lab4\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.613,D:\OAiP\lab4(var11)\Unit1.dfm=D:\OAiP\lab4\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.536,=D:\OAiP\lab4(var11)\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\OAiP\lab4\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,D:\OAiP\lab4(var11)\Project2.cbproj=D:\OAiP\lab4\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Project2.cbproj=D:\OAiP\lab4\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\ALYONA\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\OAiP\lab4\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,D:\OAiP\lab4(var11)\Unit1.h=D:\OAiP\lab4(var11)\main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.613,D:\OAiP\lab4(var11)\Unit1.h=D:\OAiP\lab4\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,D:\OAiP\lab4(var11)\Unit2.cpp=D:\OAiP\lab4(var11)\Stack.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="D:\OAiP"/>
+    <File Path="..\lab4"/>
+    <File Path="..\lab4\Project2PCH1.h"/>
+    <File Path="Project2.cpp"/>
+    <File Path="main.cpp"/>
+    <File Path="main.cpp"/>
+    <File Path="main.dfm"/>
+    <File Path="main.h"/>
+    <File Path="Stack.cpp"/>
+    <File Path="Stack.cpp"/>
+    <File Path="Stack.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
